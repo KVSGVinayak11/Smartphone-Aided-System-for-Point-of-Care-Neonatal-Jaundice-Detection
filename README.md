@@ -37,12 +37,6 @@ During the data collection process, images of infants were taken alongside bilir
 ## Model Development
 The model utilizes the k-means algorithm for color clustering and the CIEXYZ color space to calculate the yellow index (YI). A multivariate regression model is then employed to estimate bilirubin levels based on RGB intensities and the yellow index.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 We would like to thank the Department of Electronics & Communication Engineering and the Department of Data Science and Artificial Intelligence at IIIT Naya Raipur for their support in this project.
 ```
